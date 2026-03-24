@@ -224,7 +224,7 @@ Ensure you have the following installed on your system:
 #### Step 2: Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Namanlko/2048-Game.git
 cd 2048-Game
 ```
 
